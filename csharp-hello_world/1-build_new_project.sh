@@ -1,12 +1,12 @@
- #!/usr/bin/env bash
+#!/usr/bin/env bash
 
- # create the folder
- mkdir -p 1-new_project
+# create the folder
+mkdir -p 1-new_project
 
- # Cd into the folder 
- cd 1-new_project
+# Cd into the folder 
+cd 1-new_project
 
- # initialize the folder with dotnet
+# initialize the folder with dotnet
 dotnet new console 
 
 # Build the project 
