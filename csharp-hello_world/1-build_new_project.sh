@@ -7,7 +7,7 @@ mkdir -p 1-new_project
 cd 1-new_project
 
 # initialize the folder with dotnet
-dotnet new console 
+dotnet new console --force 
 
 # Build the project 
 dotnet build
