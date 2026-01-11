@@ -1,19 +1,18 @@
 #!/usr/bin/env bash
+set -e
 
-# Define the project directory
-PROJECT_DIR="csharp-hello_world/2-new_project"
+# Create project directory
+mkdir -p 2-new_project
+cd 2-new_project || exit 1
 
-# Navigate to the directory
-cd "$PROJECT_DIR" || { echo "Directory $PROJECT_DIR not found."; exit 1; }
+# Initialize C# console project
+dotnet new console --force
 
-# Initialize a new C# console project
-dotnet new console -o . 
-
-# Replace Program.cs with the required code
-echo 'using System; class Program { static void Main(string[] args) { Console.WriteLine("Hello World!"); } }' > 2-new_project.cs
+# Restore dependencies
+dotnet restore
 
 # Build the project
-dotnet build -o bin
+dotnet build
 
 # Run the project
 dotnet run
