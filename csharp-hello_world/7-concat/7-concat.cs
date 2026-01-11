@@ -4,9 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        string str1 = "Welcome to";
-        string str2 = " Holberton School!";
-        string result = ($"{str1}{str2}"); // Concatenate str1 and str2
-        Console.WriteLine(result);   // Print the result
+        string str1 = "Street";
+        string str2 = "Mission";
+        int int1 = 972;
+        console.writeLine($" {str1} {dtr2} {972} " );
     }
 }
