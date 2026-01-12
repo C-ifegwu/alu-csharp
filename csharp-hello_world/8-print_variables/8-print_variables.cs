@@ -7,6 +7,6 @@ class Program
         string str1 = "Street";
         string str2 = "Mission";
         int int1 = 972;
-        Console.WriteLine($"{str1} {str2} {int1}");
+        Console.WriteLine($"{int1} {str1} {str2}");
     }
 }
