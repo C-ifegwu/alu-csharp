@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2eHkANdCrTjTPudwHxwXlHwz9W+NR6YnpWyIRb7Oc5uWCaVw7f5uR3iJFgcjbJuU7JTx+AJI6dnm/VvnlvCiNg==",
+  "dgSpecHash": "x7ZH0mhRHC8AxDNpyA5+VrvxiWci+FQhFXK9NQD+lf+/awK2cVCiHIQPMPaUaeONEPsiwNVGBOS2e9nPhbOC1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ifegw\\alu-csharp\\8-print_variables\\8-print_variables.csproj",
+  "projectFilePath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\8-print_variables\\8-print_variables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

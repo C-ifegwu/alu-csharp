@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\7-concat\\7-concat.csproj",
+      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\7-concat\\7-concat.csproj",
       "projectName": "7-concat",
-      "projectPath": "C:\\Users\\ifegw\\alu-csharp\\7-concat\\7-concat.csproj",
+      "projectPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\7-concat\\7-concat.csproj",
       "packagesPath": "C:\\Users\\ifegw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ifegw\\alu-csharp\\7-concat\\obj\\",
+      "outputPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\7-concat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ifegw\\AppData\\Roaming\\NuGet\\NuGet.Config"
