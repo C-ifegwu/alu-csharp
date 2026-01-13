@@ -1,9 +1,11 @@
 ﻿using System;
+
 class Program
 {
-    static void Main(string[] args)
-    {
-        string p1 = "object", p2 = "-oriented ", p3 = "programming", p4 = " in C#";
-        Console.WriteLine(p1 + p2 + p3 + p4);
-    }
+	static void Main(string[] args)
+	{
+		string str = "C# (pronounced \"See Sharp\") is a simple, modern, object-oriented, and type-safe programming language. C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers.";
+		str = str.Substring(48, 15) + str.Substring(82, 12) + str.Substring(101, 5);
+		Console.WriteLine(str);
+	}
 }
