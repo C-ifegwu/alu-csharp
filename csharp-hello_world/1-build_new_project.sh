@@ -1,13 +1,10 @@
 #!/usr/bin/env bash
 
-# Create a new directory named 1-new_project
-mkdir -p 1-new_project
+# Initialize a new C# console project in a folder named 1-new_project
+dotnet new console -o 1-new_project
 
-# Navigate into the 1-new_project directory
-cd 1-new_project
+# Modify the .csproj file to target .NET 7.0
+sed -i 's/<TargetFramework>.*<\/TargetFramework>/<TargetFramework>net7.0<\/TargetFramework>/g' 1-new_project/1-new_project.csproj
 
-# Initialize a new C# console project
-dotnet new console
-
-# Build the C# project
-dotnet build
+# Build the project
+dotnet build 1-new_project
