@@ -2,11 +2,10 @@
 
 class Program
 {
-    static void Main(string[] args)
-    {
-        string str1 = "Welcome to";
-        string str2 = " Mission Street!";
-        string result = str1 + str2; // Concatenate str1 and str2
-        Console.WriteLine(result);   // Print the result
-    }
+	static void Main(string[] args)
+	{
+		string str1 = "Holberton";
+		string str2 = "School";
+		Console.WriteLine("Welcome to {0} {1}!", str1, str2);
+	}
 }
