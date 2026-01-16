@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ifegw\\alu-csharp\\3-print_alphab\\3-print_alphab.csproj": {}
+    "C:\\Users\\ifegw\\alu-csharp\\3-print_alphabt\\3-print_alphabt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ifegw\\alu-csharp\\3-print_alphab\\3-print_alphab.csproj": {
+    "C:\\Users\\ifegw\\alu-csharp\\3-print_alphabt\\3-print_alphabt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\3-print_alphab\\3-print_alphab.csproj",
-        "projectName": "3-print_alphab",
-        "projectPath": "C:\\Users\\ifegw\\alu-csharp\\3-print_alphab\\3-print_alphab.csproj",
+        "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\3-print_alphabt\\3-print_alphabt.csproj",
+        "projectName": "3-print_alphabt",
+        "projectPath": "C:\\Users\\ifegw\\alu-csharp\\3-print_alphabt\\3-print_alphabt.csproj",
         "packagesPath": "C:\\Users\\ifegw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ifegw\\alu-csharp\\3-print_alphab\\obj\\",
+        "outputPath": "C:\\Users\\ifegw\\alu-csharp\\3-print_alphabt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ifegw\\AppData\\Roaming\\NuGet\\NuGet.Config"
