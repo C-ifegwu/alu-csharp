@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\0-positive_or_negative\\0-positive_or_negative.csproj",
+      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\0-positive_or_negative.csproj",
       "projectName": "0-positive_or_negative",
-      "projectPath": "C:\\Users\\ifegw\\alu-csharp\\0-positive_or_negative\\0-positive_or_negative.csproj",
+      "projectPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\0-positive_or_negative.csproj",
       "packagesPath": "C:\\Users\\ifegw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ifegw\\alu-csharp\\0-positive_or_negative\\obj\\",
+      "outputPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ifegw\\AppData\\Roaming\\NuGet\\NuGet.Config"
