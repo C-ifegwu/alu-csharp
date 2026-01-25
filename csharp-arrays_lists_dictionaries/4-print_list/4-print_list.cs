@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 class List
 {
-    public static List<int>? CreatePrint(int size)
+    public static List<int> CreatePrint(int size)
     {
         if (size < 0)
         {
@@ -11,17 +11,17 @@ class List
             return null;
         }
 
-        List<int> list = new List<int>();
-
+        List<int> newList = new List<int>();
         for (int i = 0; i < size; i++)
         {
-            list.Add(i);
-            Console.Write(i);
+            newList.Add(i);
+            Console.Write(newList[i]);
             if (i < size - 1)
+            {
                 Console.Write(" ");
+            }
         }
-
         Console.WriteLine();
-        return list;
+        return newList;
     }
 }
