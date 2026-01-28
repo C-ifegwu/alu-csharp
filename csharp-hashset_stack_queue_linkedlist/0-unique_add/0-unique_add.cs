@@ -52,4 +52,3 @@ public static class List
         
         return sum;
     }
-}
