@@ -1,40 +1,37 @@
 ﻿using System;
 using System.Collections.Generic;
 
-public static class List
+class MyStack
 {
-    public static List<int> DifferentElements(List<int> list1, List<int> list2)
+    public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
     {
-        if (list1 == null && list2 == null)
+        Console.WriteLine("Number of items: " + aStack.Count);
+        
+        if (aStack.Count == 0)
         {
-            return new List<int>();
+            Console.WriteLine("Stack is empty");
         }
-        
-        HashSet<int> set1 = new HashSet<int>(list1 ?? new List<int>());
-        HashSet<int> set2 = new HashSet<int>(list2 ?? new List<int>());
-        List<int> result = new List<int>();
-        
-        // Find elements in set1 but not in set2
-        foreach (int num in set1)
+        else
         {
-            if (!set2.Contains(num))
+            Console.WriteLine("Top item: " + aStack.Peek());
+        }
+
+        bool contains = aStack.Contains(search);
+        Console.WriteLine("Stack contains \"" + search + "\": " + contains);
+
+        if (contains)
+        {
+            while (aStack.Count > 0)
             {
-                result.Add(num);
+                string item = aStack.Pop();
+                if (item == search)
+                {
+                    break;
+                }
             }
         }
-        
-        // Find elements in set2 but not in set1
-        foreach (int num in set2)
-        {
-            if (!set1.Contains(num))
-            {
-                result.Add(num);
-            }
-        }
-        
-        // Sort the result
-        result.Sort();
-        
-        return result;
+
+        aStack.Push(newItem);
+        return aStack;
     }
 }
