@@ -1,17 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class LList
+class Program
 {
-    public static int Pop(LinkedList<int> myLList)
+    // Main - entry point
+    static void Main(string[] args)
     {
-        if (myLList.Count == 0)
-        {
-            return 0;
-        }
+        LinkedList<int> myLList = new LinkedList<int>();
 
-        int value = myLList.First.Value;
-        myLList.RemoveFirst();
-        return value;
+        myLList.AddLast(11);
+        myLList.AddLast(3);
+        myLList.AddLast(-9);
+        myLList.AddLast(47);
+        myLList.AddLast(0);
+        myLList.AddLast(-9);
+
+        Console.WriteLine(LList.Pop(myLList));
     }
 }
