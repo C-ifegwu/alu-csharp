@@ -1,20 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
-class Program
+class LList
 {
-    // Main - entry point
-    static void Main(string[] args)
+    public static int Pop(LinkedList<int> myLList)
     {
-        LinkedList<int> myLList = new LinkedList<int>();
+        if (myLList == null || myLList.First == null)
+            return 0;
 
-        myLList.AddLast(11);
-        myLList.AddLast(3);
-        myLList.AddLast(-9);
-        myLList.AddLast(47);
-        myLList.AddLast(0);
-        myLList.AddLast(-9);
-
-        Console.WriteLine(LList.Pop(myLList));
+        int value = myLList.First.Value;
+        myLList.RemoveFirst();
+        return value;
     }
 }
