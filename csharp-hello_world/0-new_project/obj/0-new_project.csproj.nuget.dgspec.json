@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj": {}
+    "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\0-new_project\\0-new_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj": {
+    "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\0-new_project\\0-new_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
+        "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
         "projectName": "0-new_project",
-        "projectPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
+        "projectPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
         "packagesPath": "C:\\Users\\ifegw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\0-new_project\\obj\\",
+        "outputPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\0-new_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ifegw\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\11-concat_edges\\11-concat_edges.csproj": {}
+    "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\11-concat_edges\\11-concat_edges.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\11-concat_edges\\11-concat_edges.csproj": {
+    "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\11-concat_edges\\11-concat_edges.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\11-concat_edges\\11-concat_edges.csproj",
+        "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\11-concat_edges\\11-concat_edges.csproj",
         "projectName": "11-concat_edges",
-        "projectPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\11-concat_edges\\11-concat_edges.csproj",
+        "projectPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\11-concat_edges\\11-concat_edges.csproj",
         "packagesPath": "C:\\Users\\ifegw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\11-concat_edges\\obj\\",
+        "outputPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\11-concat_edges\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ifegw\\AppData\\Roaming\\NuGet\\NuGet.Config"

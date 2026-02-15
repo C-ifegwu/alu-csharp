@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\11-print_diagonal\\11-print_diagonal.csproj": {}
+    "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\11-print_diagonal\\11-print_diagonal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\11-print_diagonal\\11-print_diagonal.csproj": {
+    "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\11-print_diagonal\\11-print_diagonal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\11-print_diagonal\\11-print_diagonal.csproj",
+        "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\11-print_diagonal\\11-print_diagonal.csproj",
         "projectName": "11-print_diagonal",
-        "projectPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\11-print_diagonal\\11-print_diagonal.csproj",
+        "projectPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\11-print_diagonal\\11-print_diagonal.csproj",
         "packagesPath": "C:\\Users\\ifegw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\11-print_diagonal\\obj\\",
+        "outputPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\11-print_diagonal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ifegw\\AppData\\Roaming\\NuGet\\NuGet.Config"

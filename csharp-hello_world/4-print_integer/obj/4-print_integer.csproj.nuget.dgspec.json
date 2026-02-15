@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj": {}
+    "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj": {
+    "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
+        "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
         "projectName": "4-print_integer",
-        "projectPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
+        "projectPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
         "packagesPath": "C:\\Users\\ifegw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\4-print_integer\\obj\\",
+        "outputPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\4-print_integer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ifegw\\AppData\\Roaming\\NuGet\\NuGet.Config"

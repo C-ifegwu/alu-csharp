@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\3-print_alphabt\\3-print_alphabt.csproj",
+      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\3-print_alphabt\\3-print_alphabt.csproj",
       "projectName": "3-print_alphabt",
-      "projectPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\3-print_alphabt\\3-print_alphabt.csproj",
+      "projectPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\3-print_alphabt\\3-print_alphabt.csproj",
       "packagesPath": "C:\\Users\\ifegw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\3-print_alphabt\\obj\\",
+      "outputPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\3-print_alphabt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ifegw\\AppData\\Roaming\\NuGet\\NuGet.Config"

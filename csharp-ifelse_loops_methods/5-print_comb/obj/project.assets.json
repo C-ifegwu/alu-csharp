@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb.csproj",
+      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb.csproj",
       "projectName": "5-print_comb",
-      "projectPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb.csproj",
+      "projectPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb.csproj",
       "packagesPath": "C:\\Users\\ifegw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\obj\\",
+      "outputPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\5-print_comb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ifegw\\AppData\\Roaming\\NuGet\\NuGet.Config"

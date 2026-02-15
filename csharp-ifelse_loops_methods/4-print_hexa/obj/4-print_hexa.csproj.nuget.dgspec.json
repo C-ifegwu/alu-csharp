@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\4-print_hexa\\4-print_hexa.csproj": {}
+    "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\4-print_hexa\\4-print_hexa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\4-print_hexa\\4-print_hexa.csproj": {
+    "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\4-print_hexa\\4-print_hexa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\4-print_hexa\\4-print_hexa.csproj",
+        "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\4-print_hexa\\4-print_hexa.csproj",
         "projectName": "4-print_hexa",
-        "projectPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\4-print_hexa\\4-print_hexa.csproj",
+        "projectPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\4-print_hexa\\4-print_hexa.csproj",
         "packagesPath": "C:\\Users\\ifegw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-ifelse_loops_methods\\4-print_hexa\\obj\\",
+        "outputPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-ifelse_loops_methods\\4-print_hexa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ifegw\\AppData\\Roaming\\NuGet\\NuGet.Config"

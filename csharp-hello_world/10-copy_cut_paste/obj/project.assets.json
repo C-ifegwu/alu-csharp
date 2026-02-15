@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\10-copy_cut_paste\\10-copy_cut_paste.csproj",
+      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\10-copy_cut_paste\\10-copy_cut_paste.csproj",
       "projectName": "10-copy_cut_paste",
-      "projectPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\10-copy_cut_paste\\10-copy_cut_paste.csproj",
+      "projectPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\10-copy_cut_paste\\10-copy_cut_paste.csproj",
       "packagesPath": "C:\\Users\\ifegw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\10-copy_cut_paste\\obj\\",
+      "outputPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\10-copy_cut_paste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ifegw\\AppData\\Roaming\\NuGet\\NuGet.Config"

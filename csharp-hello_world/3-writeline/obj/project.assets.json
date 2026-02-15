@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\3-writeline\\3-writeline.csproj",
+      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\3-writeline\\3-writeline.csproj",
       "projectName": "3-writeline",
-      "projectPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\3-writeline\\3-writeline.csproj",
+      "projectPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\3-writeline\\3-writeline.csproj",
       "packagesPath": "C:\\Users\\ifegw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\3-writeline\\obj\\",
+      "outputPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\3-writeline\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ifegw\\AppData\\Roaming\\NuGet\\NuGet.Config"

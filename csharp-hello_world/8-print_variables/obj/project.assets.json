@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\8-print_variables\\8-print_variables.csproj",
+      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\8-print_variables\\8-print_variables.csproj",
       "projectName": "8-print_variables",
-      "projectPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\8-print_variables\\8-print_variables.csproj",
+      "projectPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\8-print_variables\\8-print_variables.csproj",
       "packagesPath": "C:\\Users\\ifegw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\8-print_variables\\obj\\",
+      "outputPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\8-print_variables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ifegw\\AppData\\Roaming\\NuGet\\NuGet.Config"

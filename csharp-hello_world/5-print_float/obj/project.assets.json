@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\5-print_float\\5-print_float.csproj",
+      "projectUniqueName": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\5-print_float\\5-print_float.csproj",
       "projectName": "5-print_float",
-      "projectPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\5-print_float\\5-print_float.csproj",
+      "projectPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\5-print_float\\5-print_float.csproj",
       "packagesPath": "C:\\Users\\ifegw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ifegw\\alu-csharp\\csharp-hello_world\\5-print_float\\obj\\",
+      "outputPath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-hello_world\\5-print_float\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ifegw\\AppData\\Roaming\\NuGet\\NuGet.Config"
