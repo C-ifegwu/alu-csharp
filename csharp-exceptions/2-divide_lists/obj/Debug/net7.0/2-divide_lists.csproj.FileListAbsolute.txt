@@ -1,0 +1,14 @@
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.exe
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.deps.json
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.runtimeconfig.json
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.dll
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.pdb
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.AssemblyInfoInputs.cache
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.AssemblyInfo.cs
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.csproj.CoreCompileInputs.cache
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.dll
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\refint\2-divide_lists.dll
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.pdb
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.genruntimeconfig.cache
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\ref\2-divide_lists.dll

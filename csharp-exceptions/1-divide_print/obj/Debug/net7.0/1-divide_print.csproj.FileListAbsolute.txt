@@ -1,0 +1,14 @@
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\1-divide_print\bin\Debug\net7.0\1-divide_print.exe
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\1-divide_print\bin\Debug\net7.0\1-divide_print.deps.json
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\1-divide_print\bin\Debug\net7.0\1-divide_print.runtimeconfig.json
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\1-divide_print\bin\Debug\net7.0\1-divide_print.dll
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\1-divide_print\bin\Debug\net7.0\1-divide_print.pdb
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\1-divide_print\obj\Debug\net7.0\1-divide_print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\1-divide_print\obj\Debug\net7.0\1-divide_print.AssemblyInfoInputs.cache
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\1-divide_print\obj\Debug\net7.0\1-divide_print.AssemblyInfo.cs
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\1-divide_print\obj\Debug\net7.0\1-divide_print.csproj.CoreCompileInputs.cache
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\1-divide_print\obj\Debug\net7.0\1-divide_print.dll
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\1-divide_print\obj\Debug\net7.0\refint\1-divide_print.dll
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\1-divide_print\obj\Debug\net7.0\1-divide_print.pdb
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\1-divide_print\obj\Debug\net7.0\1-divide_print.genruntimeconfig.cache
+C:\Users\ifegw\alu-csharp-1\csharp-exceptions\1-divide_print\obj\Debug\net7.0\ref\1-divide_print.dll
