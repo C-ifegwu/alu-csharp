@@ -1,0 +1,15 @@
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\bin\Debug\net7.0\3-enemy.exe
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\bin\Debug\net7.0\3-enemy.xml
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\bin\Debug\net7.0\3-enemy.deps.json
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\bin\Debug\net7.0\3-enemy.runtimeconfig.json
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\bin\Debug\net7.0\3-enemy.dll
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\bin\Debug\net7.0\3-enemy.pdb
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\obj\Debug\net7.0\3-enemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\obj\Debug\net7.0\3-enemy.AssemblyInfoInputs.cache
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\obj\Debug\net7.0\3-enemy.AssemblyInfo.cs
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\obj\Debug\net7.0\3-enemy.csproj.CoreCompileInputs.cache
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\obj\Debug\net7.0\3-enemy.dll
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\obj\Debug\net7.0\refint\3-enemy.dll
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\obj\Debug\net7.0\3-enemy.pdb
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\obj\Debug\net7.0\3-enemy.genruntimeconfig.cache
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\obj\Debug\net7.0\ref\3-enemy.dll

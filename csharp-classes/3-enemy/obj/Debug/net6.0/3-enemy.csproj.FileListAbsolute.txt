@@ -1,0 +1,4 @@
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\obj\Debug\net6.0\3-enemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\obj\Debug\net6.0\3-enemy.AssemblyInfoInputs.cache
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\obj\Debug\net6.0\3-enemy.AssemblyInfo.cs
+C:\Users\ifegw\alu-csharp-1\csharp-classes\3-enemy\obj\Debug\net6.0\3-enemy.csproj.CoreCompileInputs.cache
