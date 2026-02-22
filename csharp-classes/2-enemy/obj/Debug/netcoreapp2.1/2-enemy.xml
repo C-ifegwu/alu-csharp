@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>Defines a zombie enemy with validated health.</summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary>The zombie's health points.</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>Initializes a new Zombie with 0 health.</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>Initializes a new Zombie with the given health value.</summary>
+            <param name="value">Health value; must be >= 0.</param>
+            <exception cref="T:System.ArgumentException">Thrown when value is less than 0.</exception>
+        </member>
+    </members>
+</doc>

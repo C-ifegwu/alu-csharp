@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "2Tf8l3RJO2omBq5aL94VKiOc48g0qpeL41ac8hkfvyPCrgmGU/H6Q06DxY7Dqc0aVEWzBd0YM22we0scfG1r9w==",
+  "dgSpecHash": "vWsgWj8A8lqJxGQR6GC5QfrmCYvpyxViOfnTXiQFZBoddGxS9ty00Pjw5W3Thlv0ipDfCzrvbvp3BX5FGLdUJA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-classes\\0-enemy\\0-enemy.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\ifegw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
