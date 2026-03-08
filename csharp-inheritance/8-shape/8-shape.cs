@@ -3,11 +3,12 @@ using System;
 /// <summary>
 /// Shape class
 /// </summary>
-class Shape
+public class Shape
 {
     /// <summary>
     /// Area of shape
     /// </summary>
+    /// <returns>Throws NotImplementedException</returns>
     public virtual int Area()
     {
         throw new NotImplementedException("Area() is not implemented");
@@ -17,7 +18,7 @@ class Shape
 /// <summary>
 /// Rectangle class
 /// </summary>
-class Rectangle : Shape
+public class Rectangle : Shape
 {
     private int width;
     private int height;
@@ -53,6 +54,7 @@ class Rectangle : Shape
     /// <summary>
     /// Area of rectangle
     /// </summary>
+    /// <returns>Area of the rectangle</returns>
     public new int Area()
     {
         return width * height;
@@ -61,6 +63,7 @@ class Rectangle : Shape
     /// <summary>
     /// ToString representation
     /// </summary>
+    /// <returns>String representation</returns>
     public override string ToString()
     {
         return $"[Rectangle] {width} / {height}";
@@ -70,7 +73,7 @@ class Rectangle : Shape
 /// <summary>
 /// Square class
 /// </summary>
-class Square : Rectangle
+public class Square : Rectangle
 {
     private int size;
 

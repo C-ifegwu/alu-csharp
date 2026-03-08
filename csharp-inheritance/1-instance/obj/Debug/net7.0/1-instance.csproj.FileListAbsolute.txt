@@ -12,3 +12,4 @@ C:\Users\ifegw\alu-csharp-1\csharp-inheritance\1-instance\obj\Debug\net7.0\refin
 C:\Users\ifegw\alu-csharp-1\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.pdb
 C:\Users\ifegw\alu-csharp-1\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.genruntimeconfig.cache
 C:\Users\ifegw\alu-csharp-1\csharp-inheritance\1-instance\obj\Debug\net7.0\ref\1-instance.dll
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\1-instance\bin\Debug\net7.0\1-instance.xml

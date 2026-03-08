@@ -3,11 +3,12 @@ using System;
 /// <summary>
 /// Shape class
 /// </summary>
-class Shape
+public class Shape
 {
     /// <summary>
     /// Area of shape
     /// </summary>
+    /// <returns>Throws NotImplementedException</returns>
     public virtual int Area()
     {
         throw new NotImplementedException("Area() is not implemented");
@@ -17,7 +18,7 @@ class Shape
 /// <summary>
 /// Rectangle class
 /// </summary>
-class Rectangle : Shape
+public class Rectangle : Shape
 {
     private int width;
     private int height;

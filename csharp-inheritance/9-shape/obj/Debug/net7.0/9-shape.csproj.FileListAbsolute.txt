@@ -12,3 +12,4 @@ C:\Users\ifegw\alu-csharp-1\csharp-inheritance\9-shape\obj\Debug\net7.0\refint\9
 C:\Users\ifegw\alu-csharp-1\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.pdb
 C:\Users\ifegw\alu-csharp-1\csharp-inheritance\9-shape\obj\Debug\net7.0\9-shape.genruntimeconfig.cache
 C:\Users\ifegw\alu-csharp-1\csharp-inheritance\9-shape\obj\Debug\net7.0\ref\9-shape.dll
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\9-shape\bin\Debug\net7.0\9-shape.xml

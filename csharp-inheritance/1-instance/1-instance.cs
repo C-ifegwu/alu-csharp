@@ -3,7 +3,7 @@ using System;
 /// <summary>
 /// Obj class.
 /// </summary>
-class Obj
+public class Obj
 {
     /// <summary>
     /// Checks if the object is an instance of, or if the object is an instance of a class that inherited from, Array.

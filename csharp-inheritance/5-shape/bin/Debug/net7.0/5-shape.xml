@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Shape">
+            <summary>
+            Shape class.
+            </summary>
+        </member>
+        <member name="M:Shape.Area">
+            <summary>
+            Area of shape.
+            </summary>
+            <returns>Throws NotImplementedException</returns>
+        </member>
+    </members>
+</doc>

@@ -1,13 +1,13 @@
 /// <summary>
 /// Animal class.
 /// </summary>
-class Animal
+public class Animal
 {
 }
 
 /// <summary>
 /// Dog class.
 /// </summary>
-class Dog : Animal
+public class Dog : Animal
 {
 }

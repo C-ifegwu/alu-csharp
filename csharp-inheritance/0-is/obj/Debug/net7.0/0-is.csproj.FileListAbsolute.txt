@@ -12,3 +12,4 @@ C:\Users\ifegw\alu-csharp-1\csharp-inheritance\0-is\obj\Debug\net7.0\refint\0-is
 C:\Users\ifegw\alu-csharp-1\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.pdb
 C:\Users\ifegw\alu-csharp-1\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.genruntimeconfig.cache
 C:\Users\ifegw\alu-csharp-1\csharp-inheritance\0-is\obj\Debug\net7.0\ref\0-is.dll
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\0-is\bin\Debug\net7.0\0-is.xml

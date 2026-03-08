@@ -3,7 +3,7 @@ using System;
 /// <summary>
 /// Shape class.
 /// </summary>
-class Shape
+public class Shape
 {
     /// <summary>
     /// Area of shape.

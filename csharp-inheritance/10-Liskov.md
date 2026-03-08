@@ -1,6 +1,6 @@
 # Understanding Liskov Substitution Principle: Why a Square is not always a Rectangle
 
-When designing object-oriented systems, it is tempting to model inheritance hierarchies based on our real-world understanding of taxonomy. In our previous exercises, we explored the setup of having a Base Class `Shape`, an Inherited Class `Rectangle` (from `Shape`), and an Inherited Class `Square` (from `Rectangle`). Since every square is a rectangle in geometry, it seemingly makes sense to create a `Rectangle` class and derive a `Square` class from it.
+When designing object-oriented systems, it is tempting to model inheritance hierarchies based on our real-world understanding of taxonomy. A very common example is modeling shapes. In geometry, every square is a rectangle (a rectangle with equal sides). Therefore, it seems perfectly logical to create a `Rectangle` base class and derive a `Square` class from it.
 
 However, in software engineering, this seemingly intuitive relationship violates a core tenet of object-oriented design: **The Liskov Substitution Principle (LSP)**.
 

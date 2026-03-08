@@ -4,7 +4,7 @@ using System.Collections.Generic;
 /// <summary>
 /// Obj class.
 /// </summary>
-class Obj
+public class Obj
 {
     /// <summary>
     /// Checks if object is an int.

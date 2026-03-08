@@ -12,3 +12,4 @@ C:\Users\ifegw\alu-csharp-1\csharp-inheritance\5-shape\obj\Debug\net7.0\refint\5
 C:\Users\ifegw\alu-csharp-1\csharp-inheritance\5-shape\obj\Debug\net7.0\5-shape.pdb
 C:\Users\ifegw\alu-csharp-1\csharp-inheritance\5-shape\obj\Debug\net7.0\5-shape.genruntimeconfig.cache
 C:\Users\ifegw\alu-csharp-1\csharp-inheritance\5-shape\obj\Debug\net7.0\ref\5-shape.dll
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\5-shape\bin\Debug\net7.0\5-shape.xml

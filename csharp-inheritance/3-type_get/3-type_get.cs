@@ -4,7 +4,7 @@ using System.Reflection;
 /// <summary>
 /// Obj class.
 /// </summary>
-class Obj
+public class Obj
 {
     /// <summary>
     /// Prints the names of the available properties and methods of an object.
