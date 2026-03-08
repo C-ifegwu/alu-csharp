@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>6-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Shape">
+            <summary>
+            Shape class
+            </summary>
+        </member>
+        <member name="M:Shape.Area">
+            <summary>
+            Area of shape
+            </summary>
+        </member>
+        <member name="T:Rectangle">
+            <summary>
+            Rectangle class
+            </summary>
+        </member>
+        <member name="P:Rectangle.Width">
+            <summary>
+            Width property
+            </summary>
+        </member>
+        <member name="P:Rectangle.Height">
+            <summary>
+            Height property
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>8-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Shape">
+            <summary>
+            Shape class
+            </summary>
+        </member>
+        <member name="M:Shape.Area">
+            <summary>
+            Area of shape
+            </summary>
+        </member>
+        <member name="T:Rectangle">
+            <summary>
+            Rectangle class
+            </summary>
+        </member>
+        <member name="P:Rectangle.Width">
+            <summary>
+            Width property
+            </summary>
+        </member>
+        <member name="P:Rectangle.Height">
+            <summary>
+            Height property
+            </summary>
+        </member>
+        <member name="M:Rectangle.Area">
+            <summary>
+            Area of rectangle
+            </summary>
+        </member>
+        <member name="M:Rectangle.ToString">
+            <summary>
+            ToString representation
+            </summary>
+        </member>
+        <member name="T:Square">
+            <summary>
+            Square class
+            </summary>
+        </member>
+        <member name="P:Square.Size">
+            <summary>
+            Size property
+            </summary>
+        </member>
+    </members>
+</doc>

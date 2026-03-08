@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "u6vwR3w2V1xutbGK2vf1CkJtCo9e49zFeItOyOx0GTPgCm4DFU+XmTJjs0UvYuZtkyA4SjFaxL3Xl7p6dJimXQ==",
+  "dgSpecHash": "mv0C/DCn9WvFz5eaJRXsidiQIEp9hyGJbY4bd6nFwH5vKKG698AppJhKPP4OGSZHSEDZ3Vd+d7Lbi3tkgRBFEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ifegw\\alu-csharp-1\\csharp-tdd\\1-divide\\MyMath\\MyMath.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\ifegw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
