@@ -1,0 +1,12 @@
+﻿MSBuild version 17.7.6+77d58ec69 for .NET
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\0-is\0-main.cs(4,7): error CS0260: Missing partial modifier on declaration of type 'Program'; another partial declaration of this type exists [C:\Users\ifegw\alu-csharp-1\csharp-inheritance\0-is\0-is.csproj]
+
+Build FAILED.
+
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\0-is\0-main.cs(4,7): error CS0260: Missing partial modifier on declaration of type 'Program'; another partial declaration of this type exists [C:\Users\ifegw\alu-csharp-1\csharp-inheritance\0-is\0-is.csproj]
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.90

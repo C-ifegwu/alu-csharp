@@ -1,0 +1,14 @@
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\6-shape\obj\Debug\net7.0\6-shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\6-shape\obj\Debug\net7.0\6-shape.AssemblyInfoInputs.cache
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\6-shape\obj\Debug\net7.0\6-shape.AssemblyInfo.cs
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\6-shape\obj\Debug\net7.0\6-shape.csproj.CoreCompileInputs.cache
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\6-shape\bin\Debug\net7.0\6-shape.exe
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\6-shape\bin\Debug\net7.0\6-shape.deps.json
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\6-shape\bin\Debug\net7.0\6-shape.runtimeconfig.json
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\6-shape\bin\Debug\net7.0\6-shape.dll
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\6-shape\bin\Debug\net7.0\6-shape.pdb
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\6-shape\obj\Debug\net7.0\6-shape.dll
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\6-shape\obj\Debug\net7.0\refint\6-shape.dll
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\6-shape\obj\Debug\net7.0\6-shape.pdb
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\6-shape\obj\Debug\net7.0\6-shape.genruntimeconfig.cache
+C:\Users\ifegw\alu-csharp-1\csharp-inheritance\6-shape\obj\Debug\net7.0\ref\6-shape.dll
