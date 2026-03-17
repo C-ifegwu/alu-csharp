@@ -1,0 +1,11 @@
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp2.1\16-matrix_scalar_mul.xml
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp2.1\16-matrix_scalar_mul.deps.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp2.1\16-matrix_scalar_mul.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp2.1\16-matrix_scalar_mul.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.csproj.AssemblyReference.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.AssemblyInfoInputs.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.AssemblyInfo.cs
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.csproj.CoreCompileInputs.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.pdb

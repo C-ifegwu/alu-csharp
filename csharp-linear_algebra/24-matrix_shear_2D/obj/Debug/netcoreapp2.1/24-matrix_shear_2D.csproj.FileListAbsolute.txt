@@ -1,0 +1,11 @@
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.xml
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.deps.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.csproj.AssemblyReference.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.AssemblyInfoInputs.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.AssemblyInfo.cs
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.csproj.CoreCompileInputs.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.pdb
