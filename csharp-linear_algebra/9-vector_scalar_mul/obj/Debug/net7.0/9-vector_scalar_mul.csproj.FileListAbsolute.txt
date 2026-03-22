@@ -1,0 +1,15 @@
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\net7.0\9-vector_scalar_mul.exe
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\net7.0\9-vector_scalar_mul.xml
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\net7.0\9-vector_scalar_mul.deps.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\net7.0\9-vector_scalar_mul.runtimeconfig.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\net7.0\9-vector_scalar_mul.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\net7.0\9-vector_scalar_mul.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net7.0\9-vector_scalar_mul.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net7.0\9-vector_scalar_mul.AssemblyInfoInputs.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net7.0\9-vector_scalar_mul.AssemblyInfo.cs
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net7.0\9-vector_scalar_mul.csproj.CoreCompileInputs.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net7.0\9-vector_scalar_mul.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net7.0\refint\9-vector_scalar_mul.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net7.0\9-vector_scalar_mul.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net7.0\9-vector_scalar_mul.genruntimeconfig.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net7.0\ref\9-vector_scalar_mul.dll

@@ -9,3 +9,6 @@ c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\20-matrix_rotate_2D\obj\Debug\
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\20-matrix_rotate_2D\obj\Debug\netcoreapp2.1\20-matrix_rotate_2D.csproj.CoreCompileInputs.cache
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\20-matrix_rotate_2D\obj\Debug\netcoreapp2.1\20-matrix_rotate_2D.dll
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\20-matrix_rotate_2D\obj\Debug\netcoreapp2.1\20-matrix_rotate_2D.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\20-matrix_rotate_2D\bin\Debug\netcoreapp2.1\20-matrix_rotate_2D.runtimeconfig.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\20-matrix_rotate_2D\bin\Debug\netcoreapp2.1\20-matrix_rotate_2D.runtimeconfig.dev.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\20-matrix_rotate_2D\obj\Debug\netcoreapp2.1\20-matrix_rotate_2D.genruntimeconfig.cache

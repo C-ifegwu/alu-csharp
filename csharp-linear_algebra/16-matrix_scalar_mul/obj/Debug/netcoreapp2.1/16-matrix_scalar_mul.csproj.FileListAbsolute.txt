@@ -9,3 +9,6 @@ c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.csproj.CoreCompileInputs.cache
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.dll
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp2.1\16-matrix_scalar_mul.runtimeconfig.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\bin\Debug\netcoreapp2.1\16-matrix_scalar_mul.runtimeconfig.dev.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\16-matrix_scalar_mul\obj\Debug\netcoreapp2.1\16-matrix_scalar_mul.genruntimeconfig.cache

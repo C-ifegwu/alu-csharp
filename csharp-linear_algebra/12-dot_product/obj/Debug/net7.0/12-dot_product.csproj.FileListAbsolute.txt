@@ -1,0 +1,15 @@
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\bin\Debug\net7.0\12-dot_product.exe
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\bin\Debug\net7.0\12-dot_product.xml
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\bin\Debug\net7.0\12-dot_product.deps.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\bin\Debug\net7.0\12-dot_product.runtimeconfig.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\bin\Debug\net7.0\12-dot_product.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\bin\Debug\net7.0\12-dot_product.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\obj\Debug\net7.0\12-dot_product.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\obj\Debug\net7.0\12-dot_product.AssemblyInfoInputs.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\obj\Debug\net7.0\12-dot_product.AssemblyInfo.cs
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\obj\Debug\net7.0\12-dot_product.csproj.CoreCompileInputs.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\obj\Debug\net7.0\12-dot_product.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\obj\Debug\net7.0\refint\12-dot_product.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\obj\Debug\net7.0\12-dot_product.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\obj\Debug\net7.0\12-dot_product.genruntimeconfig.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\obj\Debug\net7.0\ref\12-dot_product.dll

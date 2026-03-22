@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YmUdoNOc+nxa7EiYlRpUR5FZ4MxjsVj0hck/IWu5wczdDzn8PB3DapUeMlHm2gFXtCmJcNkLFg3X9bsCcJDN0g==",
+  "dgSpecHash": "JRxsGhDbfl8xrzm/uUL6KC4YcOFJnDZcq6YMndi6p+SL9lsrvXXvzwU3OwfPliiasDN3POnGx9ZtK/sUBJ8jRQ==",
   "success": true,
   "projectFilePath": "c:\\Users\\ifegw\\alu-csharp-1\\csharp-linear_algebra\\28-determinant\\28-determinant.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

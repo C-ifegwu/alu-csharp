@@ -1,0 +1,15 @@
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\bin\Debug\net7.0\6-vector_addition.exe
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\bin\Debug\net7.0\6-vector_addition.xml
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\bin\Debug\net7.0\6-vector_addition.deps.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\bin\Debug\net7.0\6-vector_addition.runtimeconfig.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\bin\Debug\net7.0\6-vector_addition.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\bin\Debug\net7.0\6-vector_addition.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\obj\Debug\net7.0\6-vector_addition.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\obj\Debug\net7.0\6-vector_addition.AssemblyInfoInputs.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\obj\Debug\net7.0\6-vector_addition.AssemblyInfo.cs
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\obj\Debug\net7.0\6-vector_addition.csproj.CoreCompileInputs.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\obj\Debug\net7.0\6-vector_addition.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\obj\Debug\net7.0\refint\6-vector_addition.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\obj\Debug\net7.0\6-vector_addition.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\obj\Debug\net7.0\6-vector_addition.genruntimeconfig.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\6-vector_addition\obj\Debug\net7.0\ref\6-vector_addition.dll

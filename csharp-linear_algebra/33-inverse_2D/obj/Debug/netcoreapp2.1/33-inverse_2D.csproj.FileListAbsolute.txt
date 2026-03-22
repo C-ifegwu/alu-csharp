@@ -9,3 +9,6 @@ c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\33-inverse_2D\obj\Debug\netcor
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\33-inverse_2D\obj\Debug\netcoreapp2.1\33-inverse_2D.csproj.CoreCompileInputs.cache
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\33-inverse_2D\obj\Debug\netcoreapp2.1\33-inverse_2D.dll
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\33-inverse_2D\obj\Debug\netcoreapp2.1\33-inverse_2D.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\33-inverse_2D\bin\Debug\netcoreapp2.1\33-inverse_2D.runtimeconfig.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\33-inverse_2D\bin\Debug\netcoreapp2.1\33-inverse_2D.runtimeconfig.dev.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\33-inverse_2D\obj\Debug\netcoreapp2.1\33-inverse_2D.genruntimeconfig.cache

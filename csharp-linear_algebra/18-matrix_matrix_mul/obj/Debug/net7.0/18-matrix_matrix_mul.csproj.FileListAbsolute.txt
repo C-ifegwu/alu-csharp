@@ -1,0 +1,15 @@
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\bin\Debug\net7.0\18-matrix_matrix_mul.exe
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\bin\Debug\net7.0\18-matrix_matrix_mul.xml
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\bin\Debug\net7.0\18-matrix_matrix_mul.deps.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\bin\Debug\net7.0\18-matrix_matrix_mul.runtimeconfig.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\bin\Debug\net7.0\18-matrix_matrix_mul.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\bin\Debug\net7.0\18-matrix_matrix_mul.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\net7.0\18-matrix_matrix_mul.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\net7.0\18-matrix_matrix_mul.AssemblyInfoInputs.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\net7.0\18-matrix_matrix_mul.AssemblyInfo.cs
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\net7.0\18-matrix_matrix_mul.csproj.CoreCompileInputs.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\net7.0\18-matrix_matrix_mul.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\net7.0\refint\18-matrix_matrix_mul.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\net7.0\18-matrix_matrix_mul.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\net7.0\18-matrix_matrix_mul.genruntimeconfig.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\net7.0\ref\18-matrix_matrix_mul.dll

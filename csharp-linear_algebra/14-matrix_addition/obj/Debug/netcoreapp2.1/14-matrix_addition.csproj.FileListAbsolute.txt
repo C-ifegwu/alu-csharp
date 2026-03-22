@@ -9,3 +9,6 @@ c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\14-matrix_addition\obj\Debug\n
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\14-matrix_addition\obj\Debug\netcoreapp2.1\14-matrix_addition.csproj.CoreCompileInputs.cache
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\14-matrix_addition\obj\Debug\netcoreapp2.1\14-matrix_addition.dll
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\14-matrix_addition\obj\Debug\netcoreapp2.1\14-matrix_addition.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\14-matrix_addition\bin\Debug\netcoreapp2.1\14-matrix_addition.runtimeconfig.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\14-matrix_addition\bin\Debug\netcoreapp2.1\14-matrix_addition.runtimeconfig.dev.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\14-matrix_addition\obj\Debug\netcoreapp2.1\14-matrix_addition.genruntimeconfig.cache

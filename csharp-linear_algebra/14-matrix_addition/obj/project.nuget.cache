@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XKvBbLn7srhoaziIwiMsvP+fhoCarLK0gNmFKc5vGhbisW9wTKlE+5xlcGml/LIblT5lLbcbys6h4UmYXzdZ1g==",
+  "dgSpecHash": "q+4PqtqScdF+WMnJjTmn6ZHhuBd/J8Xrw8dQXh9xFsS3kCI2VDipKyW9vcOBrehQeCYhfrvhEXiRV0jhKq63Eg==",
   "success": true,
   "projectFilePath": "c:\\Users\\ifegw\\alu-csharp-1\\csharp-linear_algebra\\14-matrix_addition\\14-matrix_addition.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

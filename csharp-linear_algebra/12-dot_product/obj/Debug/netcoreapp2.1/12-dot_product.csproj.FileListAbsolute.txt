@@ -9,3 +9,6 @@ c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\obj\Debug\netco
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\obj\Debug\netcoreapp2.1\12-dot_product.csproj.CoreCompileInputs.cache
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\obj\Debug\netcoreapp2.1\12-dot_product.dll
 c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\obj\Debug\netcoreapp2.1\12-dot_product.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\bin\Debug\netcoreapp2.1\12-dot_product.runtimeconfig.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\bin\Debug\netcoreapp2.1\12-dot_product.runtimeconfig.dev.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\12-dot_product\obj\Debug\netcoreapp2.1\12-dot_product.genruntimeconfig.cache

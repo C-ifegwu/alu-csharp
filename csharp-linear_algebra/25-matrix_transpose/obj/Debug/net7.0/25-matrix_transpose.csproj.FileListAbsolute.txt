@@ -1,0 +1,15 @@
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\bin\Debug\net7.0\25-matrix_transpose.exe
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\bin\Debug\net7.0\25-matrix_transpose.xml
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\bin\Debug\net7.0\25-matrix_transpose.deps.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\bin\Debug\net7.0\25-matrix_transpose.runtimeconfig.json
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\bin\Debug\net7.0\25-matrix_transpose.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\bin\Debug\net7.0\25-matrix_transpose.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.AssemblyInfoInputs.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.AssemblyInfo.cs
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.csproj.CoreCompileInputs.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\refint\25-matrix_transpose.dll
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.pdb
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\25-matrix_transpose.genruntimeconfig.cache
+c:\Users\ifegw\alu-csharp-1\csharp-linear_algebra\25-matrix_transpose\obj\Debug\net7.0\ref\25-matrix_transpose.dll

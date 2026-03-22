@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zWziUpRov3r4LwvIgVlLRCH4aNCkYDg6xP2RjxGGxRL6wlvi12npRrQP3gZ5/by5feMPOz3JuEF35AT0iXrY0g==",
+  "dgSpecHash": "GO+6W7uiCw4QREOjoVmvWkovRJXhSNgwFVdU+8CYe8r5ozERP5s8HrYDuG5iuc7Alg71be2IpxPWvRfs8wLxyg==",
   "success": true,
   "projectFilePath": "c:\\Users\\ifegw\\alu-csharp-1\\csharp-linear_algebra\\16-matrix_scalar_mul\\16-matrix_scalar_mul.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Users\\ifegw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
