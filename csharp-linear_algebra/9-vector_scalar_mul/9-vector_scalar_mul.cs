@@ -18,7 +18,7 @@ public class VectorMath
 
         double[] result = new double[vector.Length];
         for (int i = 0; i < vector.Length; i++)
-            result[i] = vector[i] * scalar;
+            result[i] = Math.Round(vector[i] * scalar, 2);
 
         return result;
     }
