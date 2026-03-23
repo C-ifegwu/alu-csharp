@@ -1,15 +1,15 @@
 using System;
 
 /// <summary>
-/// Class containing vector math utility methods.
+/// Class containing vector math methods.
 /// </summary>
 public class VectorMath
 {
     /// <summary>
     /// Calculates and returns the magnitude (length) of a given vector.
     /// </summary>
-    /// <param name="vector">The vector as a double array (2D or 3D).</param>
-    /// <returns>The magnitude rounded to the nearest hundredth, or -1 if not 2D or 3D.</returns>
+    /// <param name="vector">A double array representing a 2D or 3D vector.</param>
+    /// <returns>The magnitude of the vector rounded to the nearest hundredth, or -1 if invalid.</returns>
     public static double Magnitude(double[] vector)
     {
         if (vector == null || (vector.Length != 2 && vector.Length != 3))

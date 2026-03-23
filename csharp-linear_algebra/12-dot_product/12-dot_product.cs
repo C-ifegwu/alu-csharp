@@ -1,16 +1,16 @@
 using System;
 
 /// <summary>
-/// Class containing vector math utility methods.
+/// Class containing vector math methods.
 /// </summary>
 public class VectorMath
 {
     /// <summary>
-    /// Calculates the dot product of two vectors (both 2D or both 3D).
+    /// Calculates the dot product of two 2D or 3D vectors.
     /// </summary>
-    /// <param name="vector1">The first vector (2D or 3D).</param>
-    /// <param name="vector2">The second vector (2D or 3D).</param>
-    /// <returns>The dot product, or -1 if invalid input.</returns>
+    /// <param name="vector1">First 2D or 3D vector.</param>
+    /// <param name="vector2">Second 2D or 3D vector.</param>
+    /// <returns>The dot product rounded to the nearest hundredth, or -1 if inputs are invalid.</returns>
     public static double DotProduct(double[] vector1, double[] vector2)
     {
         if (vector1 == null || vector2 == null)
@@ -25,6 +25,6 @@ public class VectorMath
         for (int i = 0; i < vector1.Length; i++)
             result += vector1[i] * vector2[i];
 
-        return result;
+        return Math.Round(result, 2);
     }
 }

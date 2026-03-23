@@ -1,16 +1,16 @@
 using System;
 
 /// <summary>
-/// Class containing vector math utility methods.
+/// Class containing vector math methods.
 /// </summary>
 public class VectorMath
 {
     /// <summary>
     /// Multiplies a vector by a scalar and returns the resulting vector.
     /// </summary>
-    /// <param name="vector">The vector (2D or 3D).</param>
-    /// <param name="scalar">The scalar value to multiply by.</param>
-    /// <returns>The resulting vector, or a vector containing -1 if invalid input.</returns>
+    /// <param name="vector">A 2D or 3D vector.</param>
+    /// <param name="scalar">A scalar value to multiply with.</param>
+    /// <returns>The resulting vector, or a vector containing -1 if the input is invalid.</returns>
     public static double[] Multiply(double[] vector, double scalar)
     {
         if (vector == null || (vector.Length != 2 && vector.Length != 3))

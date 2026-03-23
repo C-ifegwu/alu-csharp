@@ -1,15 +1,15 @@
 using System;
 
 /// <summary>
-/// Class containing matrix math utility methods.
+/// Class containing matrix math methods.
 /// </summary>
 public class MatrixMath
 {
     /// <summary>
-    /// Calculates the inverse of a 2x2 matrix and returns the resulting matrix.
+    /// Calculates the inverse of a 2x2 matrix.
     /// </summary>
-    /// <param name="matrix">The 2x2 matrix to invert.</param>
-    /// <returns>The inverted matrix, or [-1] if not 2x2 or non-invertible.</returns>
+    /// <param name="matrix">A 2x2 matrix.</param>
+    /// <returns>The inverse matrix rounded to the nearest hundredth, or a matrix containing -1 if invalid or non-invertible.</returns>
     public static double[,] Inverse2D(double[,] matrix)
     {
         if (matrix == null)
